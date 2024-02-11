@@ -1,5 +1,8 @@
 <?php
-//By mxdyeah.
+//这个版本兼容性较好
+//有问题发帖反馈到：https://discuz.mxdyeah.top/mxdyeah_discuz_thread-38-1-1.html
+//By mxdyeah Copyright (c) 2021-2024 mxd.
+//MIT 协议许可
 //https://discuz.mxdyeah.top/mxdyeah_discuz_thread-38-1-1.html
 $cityId = '5A';
 $playId= $_GET['id'];
