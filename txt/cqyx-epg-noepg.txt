@@ -65,7 +65,8 @@ CGTN,https://live.mxdyeah.top/live.php?id=cgtnSD
 兵团卫视(NO EPG),https://live.mxdyeah.top/live.php?id=bingtuanSD
 青海卫视(NO EPG),https://live.mxdyeah.top/live.php?id=qinghaiSD
 山东教育卫视(NO EPG),https://live.mxdyeah.top/live.php?id=sdjiaoyuSD
-4K频道欢笑剧场4K(NO EPG),https://live.mxdyeah.top/live.php?id=hxjc_4K
+4K频道
+欢笑剧场4K(NO EPG),https://live.mxdyeah.top/live.php?id=hxjc_4K
 CCTV-4K(NO EPG),https://live.mxdyeah.top/live.php?id=CCTV4K
 CCTV16-4K(NO EPG),https://live.mxdyeah.top/live.php?id=CCTV16_4K
 其他
