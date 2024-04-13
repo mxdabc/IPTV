@@ -1,4 +1,5 @@
-央视CCTV1,https://live.mxdyeah.top/live.php?id=cctv1HD
+央视
+CCTV1,https://live.mxdyeah.top/live.php?id=cctv1HD
 CCTV2,https://live.mxdyeah.top/live.php?id=cctv2HD
 CCTV3,https://live.mxdyeah.top/live.php?id=cctv3HD
 CCTV4,https://live.mxdyeah.top/live.php?id=cctv4HD
@@ -29,7 +30,8 @@ CGTN,https://live.mxdyeah.top/live.php?id=cgtnSD
 女性时尚(NO EPG),https://live.mxdyeah.top/live.php?id=nvxing
 中学生(NO EPG),https://live.mxdyeah.top/live.php?id=qicai
 老故事(NO EPG),https://live.mxdyeah.top/live.php?id=gushi
-卫视浙江卫视,https://live.mxdyeah.top/live.php?id=zhejiangHD
+卫视
+浙江卫视,https://live.mxdyeah.top/live.php?id=zhejiangHD
 江苏卫视,https://live.mxdyeah.top/live.php?id=jiangsuHD
 北京卫视,https://live.mxdyeah.top/live.php?id=beijingHD
 东方卫视,https://live.mxdyeah.top/live.php?id=shanghaiHD
@@ -66,7 +68,8 @@ CGTN,https://live.mxdyeah.top/live.php?id=cgtnSD
 4K频道欢笑剧场4K(NO EPG),https://live.mxdyeah.top/live.php?id=hxjc_4K
 CCTV-4K(NO EPG),https://live.mxdyeah.top/live.php?id=CCTV4K
 CCTV16-4K(NO EPG),https://live.mxdyeah.top/live.php?id=CCTV16_4K
-其他中国天气(NO EPG),https://live.mxdyeah.top/live.php?id=tianqiSD
+其他
+中国天气(NO EPG),https://live.mxdyeah.top/live.php?id=tianqiSD
 CETV-4(NO EPG),https://live.mxdyeah.top/live.php?id=cetv-4SD
 生活时尚(NO EPG),https://live.mxdyeah.top/live.php?id=shenghuo
 百姓健康(NO EPG),https://live.mxdyeah.top/live.php?id=jiankangSD
@@ -106,8 +109,10 @@ CETV-4(NO EPG),https://live.mxdyeah.top/live.php?id=cetv-4SD
 环球旅游(NO EPG),https://live.mxdyeah.top/live.php?id=huanqiulvyou
 摄影频道(NO EPG),https://live.mxdyeah.top/live.php?id=sheying
 靓妆(NO EPG),https://live.mxdyeah.top/live.php?id=liang
-北京北京纪实科教高清(NO EPG),https://live.mxdyeah.top/live.php?id=bjayjsSD
-重庆重庆新闻高清(NO EPG),https://live.mxdyeah.top/live.php?id=CQTVNewsHD
+北京
+北京纪实科教高清(NO EPG),https://live.mxdyeah.top/live.php?id=bjayjsSD
+重庆
+重庆新闻高清(NO EPG),https://live.mxdyeah.top/live.php?id=CQTVNewsHD
 重庆影视高清(NO EPG),https://live.mxdyeah.top/live.php?id=cqyingshiHD
 重庆社会与法高清(NO EPG),https://live.mxdyeah.top/live.php?id=CQTVTrendyHD
 重庆时尚生活高清(NO EPG),https://live.mxdyeah.top/live.php?id=cqssgwHD
